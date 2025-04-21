@@ -1,2 +1,2 @@
 # High-Performance-Lab
-Proyecto Realizado en 1er semestre 
+Proyecto de página web, realizado en 1er semestre para la clase de Ética y Legislación Informática
